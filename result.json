@@ -1,0 +1,500 @@
+{"question": "is attending a first aid course part of the chain of survival", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "was the game a spin off of girlfriends", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a descant recorder the same as a soprano", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are vw audi and porsche the same company", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is a state id a government issued id", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "was the movie bridge on the river kwai a true story", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "will all xbox 360 games work on xbox one", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "are all spark plugs the same size socket", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there a free period in high school", "expected_answer": true, "response": "True. High schools often offer periods for students to take a break from classes, relax, and socialize with friends.", "assistant_answer": false, "correct": false}
+{"question": "is the outsiders movie based on a true story", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "has tampa ever been hit by a hurricane", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the preamble a part of the indian constitution", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you be born with an extra y chromosome", "expected_answer": true, "response": "False. The Y chromosome is responsible for determining male sex characteristics, while the X chromosome determines female sex characteristics. It is not possible for someone to be born with an extra Y chromosome.", "assistant_answer": false, "correct": false}
+{"question": "are nucleotides the building blocks of dna and rna", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are the two chromosomes in a pair identical", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "has canada ever participated in the world cup", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is a cold water bath as good as an ice bath", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is the movie shape of water based on a book", "expected_answer": false, "response": "True. The movie \"Shape of Water\" is based on a short story called \"The Shape of Water\" by Guillermo del Toro.", "assistant_answer": false, "correct": true}
+{"question": "does the magnitude of a physical quantity change with the change in the system of units", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can president go to war without congress approval", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is the young and the restless going off the air", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is there a toll on the battery tunnel", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the shape of water movie based on a book", "expected_answer": false, "response": "True. The Shape of Water is a film adaptation of the 2007 short story \"The Radio Operator\" by Richard Bausch.", "assistant_answer": false, "correct": true}
+{"question": "does the size of a rain gauge matter", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the derivative of a continuous function always continuous", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can you be president if you were not born in the us", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is navel and belly button the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "has any team ever swept the stanley cup final", "expected_answer": true, "response": "True. The Montreal Canadiens won the Stanley Cup in 1993, sweeping all four rounds of the playoffs.", "assistant_answer": false, "correct": false}
+{"question": "was the tiger really on the boat in life of pi", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "is a group of cats known as a clowder", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there a sequel to the movie the golden compass", "expected_answer": false, "response": "True. There is a sequel to the movie The Golden Compass called \"The Subtle Knife\".", "assistant_answer": false, "correct": true}
+{"question": "can you be arrested for the same crime twice", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there going to be a sequel to the death cure", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is vauxhall station in zone 1 or 2", "expected_answer": false, "response": "True. Vauxhall station is located in zone 1.", "assistant_answer": false, "correct": true}
+{"question": "was everything everything based on a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "are pork loin ribs the same as baby back", "expected_answer": true, "response": "True. Pork loin ribs are a type of baby back ribs.", "assistant_answer": false, "correct": false}
+{"question": "does the mason dixon line go through nj", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is fromage frais and quark the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there such a thing as altitude sickness", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "did ireland ever win the soccer world cup", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "does the robot in lost in space talk", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "does cheddar cheese have to be made in cheddar", "expected_answer": false, "response": "town?", "assistant_answer": false, "correct": true}
+{"question": "can you buy a gun if you are dishonorably discharged", "expected_answer": false, "response": "from military?", "assistant_answer": false, "correct": true}
+{"question": "are you required to complete the 2017 economic census", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is molly's game based on a book", "expected_answer": true, "response": "Answer: false", "assistant_answer": false, "correct": false}
+{"question": "is fixed cost the same as total cost", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is a roma tomato the same as a plum tomato", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is hellmans mayo the same as best foods", "expected_answer": true, "response": "mayo?", "assistant_answer": false, "correct": false}
+{"question": "do you have to take the bar exam to practice law", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can picking your nose affect your sense of smell", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does arnie die in what eating gilbert grape", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is kingda ka the biggest roller coaster in the world", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "have the thunder ever made it to the finals", "expected_answer": true, "response": "True. The Thunder has made it to the NBA Finals once in 2012.", "assistant_answer": false, "correct": false}
+{"question": "can you get a 3rd set of teeth", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "has any movie gotten 100 on rotten tomatoes", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "does lynette's family die in the tornado", "expected_answer": false, "response": "I am sorry, I cannot answer this question as it is not clear who Lynette is and what context the sentence refers to.", "assistant_answer": false, "correct": true}
+{"question": "is pretty little liars filmed in stars hollow", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is central bank of india and reserve bank of india same", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the university of st thomas a non profit", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "do we still have net neutrality in the us", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the winner of the world cup host it next time", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the variance the same as standard deviation", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is ellis island connected to the statue of liberty", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is the tv show the resident over for the season", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a sermon the same as a homily", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "do you need a license for airsoft guns uk", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is queso fresco and queso blanco the same", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is pokemon lets go eevee a spin off", "expected_answer": false, "response": "game?", "assistant_answer": false, "correct": true}
+{"question": "will there be more episodes of endeavour morse", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the monorail go to las vegas airport", "expected_answer": false, "response": "The mono rail does not go to the Las Vegas airport.", "assistant_answer": false, "correct": true}
+{"question": "can you take the money in who wants to be a millionaire", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are sperm whales on the endangered species list", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is a veteran someone who went to war", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "are there only 2 rounds in the nba draft", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "was bennie and the jets a real band", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "do i need a visa to visit iraq", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is avicii the guy in the nights video", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "are t rex and tyrannosaurus rex the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is it illegal to steal a street sign", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you carry a gun on you in california", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "do they still make philip morris commander cigarettes", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is a porpoise and a dolphin the same animal", "expected_answer": false, "response": "No, a porpoise and a dolphin are not the same animal.", "assistant_answer": false, "correct": true}
+{"question": "is its a wonderful life a christmas movie", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "are the spinal cord and vertebral column the same length", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is ivory coast and cote d ivoire the same", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "are all nhl ice rinks the same size", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is mineral oil the same as hydraulic oil", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is abu dhabi and dubai the same place", "expected_answer": false, "response": "False. Abu Dhabi is a city in the United Arab Emirates, while Dubai is a city in the United Arab Emirates as well, but it is located on the Arabian Gulf coast.", "assistant_answer": false, "correct": true}
+{"question": "do adjectives have to come before a noun", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is a sq m the same as m2", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can a grizzly bear mate with a polar bear", "expected_answer": true, "response": "No, it is not possible for a grizzly bear to mate with a polar bear. Grizzlies are found in North America while polar bears are found in the Arctic regions of Canada, Greenland, and Russia.", "assistant_answer": false, "correct": false}
+{"question": "are panthers and mountain lions the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the vatican city have its own laws", "expected_answer": true, "response": "True. The Vatican City has its own legal system, known as the Holy See Judiciary.", "assistant_answer": false, "correct": false}
+{"question": "can an organism be in more than one trophic level", "expected_answer": true, "response": "at the same time?", "assistant_answer": false, "correct": false}
+{"question": "is tanjore a traditional indian folk art form", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can you build up immunity to snake venom", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "have the washington capitals ever been in a stanley cup", "expected_answer": true, "response": "True. The Washington Capitals have won the Stanley Cup twice, in 1998 and 2018.", "assistant_answer": false, "correct": false}
+{"question": "does tuna have a lot of mercury in it", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is bosnia and herzegovina part of the eu", "expected_answer": false, "response": "False. Bosnia and Herzegovina is not currently a member of the European Union.", "assistant_answer": false, "correct": true}
+{"question": "do away goals count in the league 2 playoffs", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is the last of us a ps4 exclusive", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "does call of duty black ops 3 have zombies", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "does the foreword go before the table of contents", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is flight of the phoenix based on a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "was snow white the first full length animated film", "expected_answer": true, "response": "True. Snow White and the Seven Dwarfs was released in 1937, making it the first full-length animated feature film.", "assistant_answer": false, "correct": false}
+{"question": "is it illegal to have a crossbow in uk", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is land tax the same as property tax", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the movie stepfather based on a true story", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is a particle the same as a molecule", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "do runs have to be the same suit in gin rummy", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does wednesday die in what happened to monday", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is fidelity bond the same as crime insurance", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is an english bull terrier a pit bull", "expected_answer": false, "response": "No, an English Bull Terrier is not a Pit Bull.", "assistant_answer": false, "correct": true}
+{"question": "are roasted red peppers and pimentos the same", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there going to be a 13th captain underpants book", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a dame the same as a knight", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "do the saints run a 3 4 defense", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does fred from first dates have a partner", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the vice president the head of the senate", "expected_answer": true, "response": "True. The Vice President serves as the President of the Senate, which is one of the two houses of the United States Congress.", "assistant_answer": false, "correct": false}
+{"question": "was till i collapse made for real steel", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there such thing as a blue ruby", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does dan stevens sing in beauty and the beast", "expected_answer": true, "response": "True. Dan Stevens played the role of Beast/Prince Adam in the live-action film adaptation of Beauty and the Beast.", "assistant_answer": false, "correct": false}
+{"question": "is the load the pivot point of a lever", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is there a movie after fifty shades darker", "expected_answer": true, "response": "True. Fifty Shades Freed is the third installment in the Fifty Shades film series.", "assistant_answer": false, "correct": false}
+{"question": "did hawaii used to be called the sandwich islands", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you move the pawn backwards in chess", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there a water park at ontario place", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can you choose who is your next of kin", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can a high level language use an assembler", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is northern ireland part of the great britain", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "has israel ever qualified for the world cup", "expected_answer": true, "response": "True. Israel has participated in the World Cup on several occasions, including the 1998, 2002, 2010, and 2014 World Cups.", "assistant_answer": false, "correct": false}
+{"question": "can you drink under the age of 21", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is himalayan pink salt the same as curing salt", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can a passport card be used to fly to canada", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is an undergraduate degree the same as a bachelor's degree", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is nuclear power the same as nuclear energy", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do all lanes of traffic have to stop for a school bus", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can a goalkeeper pick up a ball from a throw in", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "can a horse and a donkey have a baby", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is end point the same as equivalence point", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does fitness(as used in biology) and survival have the same meaning", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does tara get out of jail in sons of anarchy", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there going to be fauda season 3", "expected_answer": true, "response": "There is no information provided in the sentence about whether there will be a Fauda season 3.", "assistant_answer": false, "correct": false}
+{"question": "is the leaning tower of pisa in rome", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is palm kernel oil the same as coconut oil", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "are maleficent and the evil queen the same", "expected_answer": false, "response": "person?", "assistant_answer": false, "correct": true}
+{"question": "can you die from hot dog eating contest", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there more than one type of mono", "expected_answer": true, "response": "True. There are several types of monoamine neurotransmitters, including dopamine, serotonin, norepinephrine, and epinephrine.", "assistant_answer": false, "correct": false}
+{"question": "is round of 16 world cup single elimination", "expected_answer": true, "response": "tournament?", "assistant_answer": false, "correct": false}
+{"question": "is pureed tomatoes the same as tomato sauce", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is finders keepers a sequel to mr mercedes", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does bluebell sell other products besides ice cream", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "is the national guard part of the coast guard", "expected_answer": false, "response": "True. The National Guard is a branch of the military that provides support during natural disasters, civil unrest, and other emergencies.", "assistant_answer": false, "correct": true}
+{"question": "do they have guitar hero for xbox one", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can someone with a phd be called a doctor", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "are you allowed to have your phone in prison", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "can you get on the internet with a playstation 2", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do all xbox 360 games work on xbox 1", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is there wheel of fortune in other countries", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "is call of duty modern warfare 2 multiplayer", "expected_answer": true, "response": "game?", "assistant_answer": false, "correct": false}
+{"question": "has indian ever made it to the world cup", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can staring at a bright light cause blindness", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is shea butter made from a tree nut", "expected_answer": true, "response": "True. Shea butter is made from the nut of the shea tree, which is native to Africa.", "assistant_answer": false, "correct": false}
+{"question": "does a public company have to be listed on the stock exchange", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is it possible to win chess with only a king", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can you drive a us car into canada", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is normal saline the same as 0.9 sodium chloride", "expected_answer": true, "response": "solution?", "assistant_answer": false, "correct": false}
+{"question": "does a deed of trust have to have a trustee", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is the west indies part of the caribbean", "expected_answer": true, "response": "True. The West Indies is located in the Caribbean region.", "assistant_answer": false, "correct": false}
+{"question": "was better call saul filmed before breaking bad", "expected_answer": false, "response": "True. \"Better Call Saul\" was released in 2015, while \"Breaking Bad\" premiered in 2008.", "assistant_answer": false, "correct": true}
+{"question": "is the southern tip of south america cold", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "do cows have to keep getting pregnant to produce milk", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "has season 5 of the flash come out", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "will my military id get me into canada", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there a season 2 of medici masters of florence", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is all i wanna do based on a true story", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the university of chicago an ivy league school", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is it true that the ring finger is connected to the heart", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does the uk national anthem change if there is a king", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is puerto rico a protectorate of the us", "expected_answer": false, "response": "True. Puerto Rico is a protectorate of the United States Constitution.", "assistant_answer": false, "correct": true}
+{"question": "did christine and the phantom have a son", "expected_answer": true, "response": "Christiine and the Phantom did not have a son.", "assistant_answer": false, "correct": false}
+{"question": "can you go out on a double in chicken foot", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "was the green mile nominated for any oscars", "expected_answer": true, "response": "True. The Green Mile was nominated for several Oscars, including Best Picture, Best Director, Best Actor in a Leading Role (Tom Hanks), and Best Actress in a Supporting Role (Sally Field).", "assistant_answer": false, "correct": false}
+{"question": "is saigon cinnamon the same as regular cinnamon", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does switzerland allow free movement of eu citizens", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are there still grammar schools in the uk", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the a train go to penn station", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the fruit orange named after the color", "expected_answer": false, "response": "of its skin?", "assistant_answer": false, "correct": true}
+{"question": "is it possible to run for 24 hours", "expected_answer": true, "response": "without rest?", "assistant_answer": false, "correct": false}
+{"question": "is it true to say that the torrens system only recognizes registered interests in land", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is dodge and jeep made by the same company", "expected_answer": true, "response": "True. Dodge and Jeep are both brands owned by Chrysler LLC, which is now part of Stellantis North America.", "assistant_answer": false, "correct": false}
+{"question": "is ellen's game of games still on tv", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is a mortgage loan originator the same as a loan officer", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the speaker of the house have to be a congressman", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do elizabeth and jack sparrow end up together", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is an imperial gallon the same as a us gallon", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there a shoot out in world cup", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a season 5 of prison break", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "are chickpeas and garbonzo beans the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a sequel to the journey to the mysterious island", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is salt lake city the biggest city in utah", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "have scotland ever been in the world cup final", "expected_answer": false, "response": "True. Scotland has participated in the FIFA World Cup on four occasions, with their best finish being reaching the quarterfinals in 1998.", "assistant_answer": false, "correct": true}
+{"question": "is the show nashville based on a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can a police officer carry in any state", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "did ireland qualify for the 2018 world cup", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "can you use vegetable oil as carrier oil", "expected_answer": true, "response": "True. Vegetable oil can be used as a carrier oil for essential oils, but it is important to note that different types of vegetable oils may work better with certain essential oils.", "assistant_answer": false, "correct": false}
+{"question": "are there any area codes that start with 1", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "can you go into a liquor store under 21 in nj", "expected_answer": true, "response": "True. In New Jersey, it is legal for individuals who are at least 21 years old to purchase alcohol from a licensed liquor store.", "assistant_answer": false, "correct": false}
+{"question": "do they still make new family guy episodes", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is turkey a part of the european union", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is lord of all hopefulness a funeral hymn", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "do they still make $2 bills in 2018", "expected_answer": true, "response": "True. The United States government continues to produce $2 bills as of 2021.", "assistant_answer": false, "correct": false}
+{"question": "was family ties filmed in front of a live audience", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "is it law to wear a seatbelt uk", "expected_answer": true, "response": "True. It is mandatory for drivers and passengers in the UK to wear seat belts while driving on public roads.", "assistant_answer": false, "correct": false}
+{"question": "is the family medical leave act a federal law", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "does jk rowling have any other books besides harry potter", "expected_answer": true, "response": "True. JK Rowling has written several other books, including The Casual Vacancy, The Cuckoo's Calling, and The Luminaries.", "assistant_answer": false, "correct": false}
+{"question": "is there such a thing as a floating island", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is women's one a day fda approved", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "can a supreme court justice run for president", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "was the lizzie mcguire movie filmed in rome", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "does the prime minister live at number 10 downing street", "expected_answer": true, "response": "True. The current prime minister of the United Kingdom, Boris Johnson, lives at Number 10 Downing Street.", "assistant_answer": false, "correct": false}
+{"question": "is there more than one national treasure movie", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "does the state of kansas have the death penalty", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is soul surfer based on a true story", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are applebee's and ihop owned by the same company", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "did indian football team qualified for fifa 2018", "expected_answer": false, "response": "world cup?", "assistant_answer": false, "correct": true}
+{"question": "can a president choose not to run for reelection", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can you survive a blue ringed octopus bite", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does a sacrafice bunt count as an at bat", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is skyline drive part of the blue ridge parkway", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "did it rain oil in the gulf war", "expected_answer": true, "response": "No, it did not rain oil in the Gulf War.", "assistant_answer": false, "correct": false}
+{"question": "is it legal to own a gun in chicago", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "has anyone ever ran a 4 minute mile", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does beau abbott die in a quiet place", "expected_answer": true, "response": "True. Beau Abbot does die in A Quiet Place.", "assistant_answer": false, "correct": false}
+{"question": "can you get held back in elementary school", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is i-94 a toll road in michigan", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is there a golf course at the indy 500", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a pickle and a gherkin the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can a hiatal hernia cause an irregular heartbeat", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there any original members of lynyrd skynyrd", "expected_answer": true, "response": "True. The original members of Lynyrd Skynyrd were Ronnie Van Zant, Gary Rossington, Allen Collins, Ed King, Billy Powell, and Bob Burns.", "assistant_answer": false, "correct": false}
+{"question": "is there a sequel to the movie 300", "expected_answer": true, "response": ":00:00 AM?", "assistant_answer": false, "correct": false}
+{"question": "are the lofoten islands in the arctic circle", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there a difference between an ounce and a fluid ounce", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a kilowatt hour a unit of power", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "do hela cells have a normal number of chromosomes", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do the try guys no longer work for buzzfeed", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the dog from little rascals still alive", "expected_answer": false, "response": "I am sorry, I cannot answer this question as it is not related to the sentence provided.", "assistant_answer": false, "correct": true}
+{"question": "is married at first sight still on tv", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "are a meter and a yard the same length", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "did the great depression affect the whole world", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is it rare to have 6 wisdom teeth", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is there a third season of better call saul", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the nile river still flood every year", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is static pressure the same as atmospheric pressure", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is response time the same as input lag", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the sound of music set in austria", "expected_answer": true, "response": "True. The Sound of Music is set in Austria, specifically in Salzburg.", "assistant_answer": false, "correct": false}
+{"question": "is pain experienced in a missing body part or paralyzed area", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is it possible to have no sense of smell", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "can you break someone's wrist by twisting it", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are there 104 episodes of phineas and ferb", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "did the uk have a referendum to join the eu", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a timber wolf the same as a gray wolf", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "can you turn right on a red in quebec", "expected_answer": true, "response": "True. In Quebec, drivers are allowed to turn right on a red light after stopping for pedestrians.", "assistant_answer": false, "correct": false}
+{"question": "does the right to privacy exist in the constitution", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "do male and female highland cows have horns", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are high rise and high waisted jeans the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are a cougar and mountain lion the same", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is income per capita the same as gdp per capita", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does the clock stop when you run out of bounds in the nfl", "expected_answer": true, "response": "True. In the NFL, if a player runs out of bounds while holding the ball, the play is ruled dead and the clock stops until the ball is spotted again.", "assistant_answer": false, "correct": false}
+{"question": "has there ever been an earthquake in tennessee", "expected_answer": true, "response": "True. Tennessee has experienced several earthquakes throughout its history, including the New Madrid earthquakes in 1811-1812.", "assistant_answer": false, "correct": false}
+{"question": "is there a sequel to the avengers infinity war", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are there cars that run on natural gas", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "has russia ever made it to the world cup finals", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is the ascending colon part of the large intestine", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "can a return address be a po box", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is the lead singer of skid row dead", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is we bought a zoo a true story", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "does the goalkeeper count in the offside rule", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is all of europe in the same time zone", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do flight paths go over the north pole", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is adjusted gross income the same as taxable income", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "did mariah carey wrote all i want for christmas is you", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the october revolution the same as the bolshevik revolution", "expected_answer": true, "response": "True. The October Revolution in Russia, led by Vladimir Lenin and his Bolshevik Party, marked the beginning of a new era for the country and its people.", "assistant_answer": false, "correct": false}
+{"question": "do you have to be from america to be on americas got talent", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do you have to be born with perfect pitch", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "has croatia ever made it to the finals in the world cup", "expected_answer": true, "response": "Croatia has never won the World Cup.", "assistant_answer": false, "correct": false}
+{"question": "did the stock market crash of 1929 caused the great depression", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is pulp fiction based on a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "will there be a season 3 el chapo", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "do donna and eric end up getting married", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there a group called the five heartbeats", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can lemon juice be used as citric acid", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is st maarten and st martin the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is lily-of-the-valley poisonous", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you promote a pawn to a pawn", "expected_answer": false, "response": "on the same move?", "assistant_answer": false, "correct": true}
+{"question": "does a cow have to be pregnant to lactate", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "has anyone won the grand slam in golf", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a sweet potato part of the potato family", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is there any train between india and pakistan", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there a chip in the apple lightning cable", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the book the outsiders based on a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the ball dead on an infield fly", "expected_answer": false, "response": "ball?", "assistant_answer": false, "correct": true}
+{"question": "does the queen bee die after she stings", "expected_answer": false, "response": "herself?", "assistant_answer": false, "correct": true}
+{"question": "is motherhood maternity and destination maternity the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there such a thing as a half uncle", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the dulles toll road take credit cards", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is the united states qualified for the world cup", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do they live at the end of a quiet place", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a bone in your ear lobe", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do penalty shoot out goals count in golden boot", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can a boat sail faster than the wind", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is lost in space based on a book", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a master of fine arts a terminal degree", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is the ballroom at the top of the blackpool tower", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is there a sequel to hunter x hunter", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "is song of songs in the old testament", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are the jungle and rainforest the same thing", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the heart apart of the muscular system", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is home park windsor open to the public", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is wholemeal flour the same as whole wheat", "expected_answer": true, "response": "flour?", "assistant_answer": false, "correct": false}
+{"question": "is it 5 portions of fruit and 5 of vegetables", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there a difference in structure of the two atria", "expected_answer": true, "response": "ctions?", "assistant_answer": false, "correct": false}
+{"question": "does it cost money to join the playstation network", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is in the time of the butterflies a true story", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you have twins from 2 different dads", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is a private equity fund a financial institution", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "are greenwich village and the west village the same", "expected_answer": false, "response": "True. Greenwich Village and the West Village are both neighborhoods located in Manhattan, New York City.", "assistant_answer": false, "correct": true}
+{"question": "does the first amendment separate church and state", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "did the captain of the uss indianapolis live", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "do i need a permit to open carry in missouri", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "did denzel washington play the trumpet in mo better blues", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "will there be a new spartacus season 5", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "can anyone take the bar exam in canada", "expected_answer": false, "response": "True. Anyone who meets the minimum qualifications can take the bar exam in Canada.", "assistant_answer": false, "correct": true}
+{"question": "does winning the fa cup qualify for europe", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can we travel faster than speed of light", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can you get pregnant with twins by two different fathers", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there only 1 season of the terror", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is elmer's glue all a pva glue", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "do barn swallows lay eggs more than once a year", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is profit and loss account same as income statement", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the outcasts based on a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there a statute of limitations in england", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "did the iphone 6 come out before the iphone se", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does gram positive have a thick cell wall", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are there alligators in north or south carolina", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you cut the stock off a shotgun", "expected_answer": true, "response": "barrel?", "assistant_answer": false, "correct": false}
+{"question": "were there always 9 justices on the supreme court", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is there a such thing as a broken heart", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is air canada rouge the same as air canada", "expected_answer": false, "response": "True. Air Canada Rouge is a subsidiary of Air Canada, but it operates independently with its own brand identity and marketing strategy.", "assistant_answer": false, "correct": true}
+{"question": "did articles of confederation have an executive branch", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "do corporations have the same free speech rights as persons", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the poly a tail added immediately after the stop codon", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the us constitution allow states to secede", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is there a hulk movie with mark ruffalo", "expected_answer": false, "response": "There is no known movie with Mark Ruffalo that specifically involves a Hulk character. However, Ruffalo has appeared in several movies where he played different characters.", "assistant_answer": false, "correct": true}
+{"question": "are the base angles of an isosceles triangle equal", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is national human rights commission a constitutional body", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the national anthem of spain have words", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is profit and loss statement same as income statement", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are there going to be more tinkerbell movies", "expected_answer": true, "response": "True. There are plans for at least one more TinkerBell movie, titled \"TinkerBell: The Legend of the NeverBeast\".", "assistant_answer": false, "correct": false}
+{"question": "are there state income taxes in new mexico", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "is fort walton beach the same as destin", "expected_answer": false, "response": "beach?", "assistant_answer": false, "correct": true}
+{"question": "can you get to the mississippi river from the great lakes", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you drink alcohol with your parents in wisconsin", "expected_answer": true, "response": "True. In Wisconsin, it is legal for individuals over the age of 21 to consume alcohol with their parents at home.", "assistant_answer": false, "correct": false}
+{"question": "did the milwaukee braves ever win the world series", "expected_answer": true, "response": "True. The Milwaukee Braves won the World Series in 1957.", "assistant_answer": false, "correct": false}
+{"question": "is the vagus nerve part of the cns", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "are the pirates of the caribbean movies based on books", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "will there be a new how to train your dragon series", "expected_answer": false, "response": "True. DreamWorks Animation announced in May 2020 that it had acquired the rights to produce a new How To Train Your Dragon series.", "assistant_answer": false, "correct": true}
+{"question": "do front turn signals have to be amber", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a pip the same as a basis point", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is davao city the biggest city in the whole world", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the empty set an element of the set containing the empty set", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "are there actual bodies in the tomb of the unknown soldier", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "do all xbox 360 games work on xbox one x", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "does the navy have a delayed entry program", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is new jersey a suburb of new york city", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "does a square have to have right angles", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can lead dust be absorbed through the eyes", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "has usa ever played in the world cup", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is series of unfortunate events a true story", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is seagulls stop it now a real song", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the sea snake the most venomous snake", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is there always a way to win solitaire", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is america the only country with an electoral college", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "do you have to pay to use the itv hub", "expected_answer": true, "response": "app?", "assistant_answer": false, "correct": false}
+{"question": "does a soccer kick off have to go forward", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "does wally west have powers in the flash", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is diet rite and diet rc the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the standard error the same as standard deviation", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a book after the girl in the spider's web", "expected_answer": true, "response": "True. There is a sequel called \"The Girl Who Takes an Eye for an Eye.\"", "assistant_answer": false, "correct": false}
+{"question": "is there a mercy rule in professional soccer", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is percent difference the same as percent change", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is a passphrase the same as a password", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is los cabos the same as cabo san lucas", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is courage the cowardly dog still on tv", "expected_answer": false, "response": "False. Courage the Cowardly Dog was cancelled in 2002 after 65 episodes.", "assistant_answer": false, "correct": true}
+{"question": "did tom hardy won an oscar for the revenant", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the czech republic and czechoslovakia the same thing", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is living at high altitude good for you", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is black cumin seed same as black seed", "expected_answer": false, "response": "oil?", "assistant_answer": false, "correct": true}
+{"question": "is i cant believe its not butter margarine", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "do you get overseas service bars for korea", "expected_answer": true, "response": "military?", "assistant_answer": false, "correct": false}
+{"question": "is the tommy gun a sub machine gun", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is fantastic beasts movie based on a book", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is mt fuji the tallest mountain in the world", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the maze runner death cure the last movie", "expected_answer": true, "response": "in the series?", "assistant_answer": false, "correct": false}
+{"question": "is there going to be another insurgent movie", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is george washington bridge a one way toll", "expected_answer": true, "response": "bridge?", "assistant_answer": false, "correct": false}
+{"question": "can ipad mini 1st generation get ios 10", "expected_answer": false, "response": "True. The iPad Mini 1st generation was released in October 2012, while the earliest version of iOS (version 5.0) was released in September 2013. Therefore, it is not possible for the iPad Mini 1st generation to get iOS 1.0.", "assistant_answer": false, "correct": true}
+{"question": "is there an age limit to compete in the olympics", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is universal music group part of universal studios", "expected_answer": false, "response": "True. Universal Music Group is a subsidiary of Universal Studios, which is owned by Comcast Corporation.", "assistant_answer": false, "correct": true}
+{"question": "is american sign language the only sign language", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "has anyone won the million dollars on are you smarter than a fifth grader", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does the crew 2 have a story line", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do you qualify for the world cup if you host it", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is eastern kentucky university a division 1 school", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is panama city beach on the gulf of mexico", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "is rafflesia the largest flower in the world", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is a nissan frontier a 1/2 ton truck", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do world cup players have to play for their home country", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the strip in the city of las vegas", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is the nobel peace prize awarded every year", "expected_answer": true, "response": "True. The Nobel Peace Prize is awarded every year.", "assistant_answer": false, "correct": false}
+{"question": "is c# and visual c# the same", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is the milky way in a galaxy cluster", "expected_answer": true, "response": "True. Milky Way is located in a galaxy cluster called Virgo Cluster.", "assistant_answer": false, "correct": false}
+{"question": "is aldi's affiliated with trader joe's", "expected_answer": true, "response": "True. Aldi is owned by the same parent company as Trader Joe's, called Aldi S\u00fcd GmbH.", "assistant_answer": false, "correct": false}
+{"question": "is popcorn made from corn on the cob", "expected_answer": true, "response": "True. Popcorn is made from corn kernels that have been dried, cooked, and popped into small pieces.", "assistant_answer": false, "correct": false}
+{"question": "is better call saul set after breaking bad", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "do the interior angles of a triangle equal 180", "expected_answer": true, "response": "degrees?", "assistant_answer": false, "correct": false}
+{"question": "did my name is earl finish his list", "expected_answer": false, "response": "of things to do?", "assistant_answer": false, "correct": true}
+{"question": "is a garbanzo bean and a chickpea the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can i turn right on a red light in quebec", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is common law marriage legal in the united states", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there a sequel to the movie i am four", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can glucogenic amino acids be used to make glucose", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is father's day the same day every year", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "is the toyota highlander on a truck frame", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is there any more hunger games coming out", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can hydrogen be used in a combustion engine", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "has anyone ever died during a football game", "expected_answer": true, "response": "True.", "assistant_answer": false, "correct": false}
+{"question": "does it cost money to renounce us citizenship", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the united states part of the eu", "expected_answer": false, "response": "False. The United States is not part of the European Union.", "assistant_answer": false, "correct": true}
+{"question": "will there be episode 9 of sacred games", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is the civil rights act in the constitution", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "do you get paid when on administrative leave", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a dodo in alice in wonderland", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is france the same timezone as the uk", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "can you be born with both female and male parts", "expected_answer": true, "response": "False. It is not possible for someone to be born with both female and male parts.", "assistant_answer": false, "correct": false}
+{"question": "did they use a real gorilla in mighty joe young", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can a state constitution override the us constitution", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is a nissan pathfinder a full size suv", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is studio city in the san fernando valley", "expected_answer": true, "response": "True. Studio City is located in the San Fernando Valley.", "assistant_answer": false, "correct": false}
+{"question": "can you play ace 2 3 in rummy", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can puerto rico vote for the us president", "expected_answer": false, "response": "True. Puerto Ricans are U.S. citizens and can cast ballots in presidential elections.", "assistant_answer": false, "correct": true}
+{"question": "is hellmann's and best foods the same company", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "do anne and gilbert get together in the books", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is mt evans part of rocky mountain national park", "expected_answer": true, "response": "False. Mt. Evans is located in the Rocky Mountain National Park.", "assistant_answer": false, "correct": false}
+{"question": "is a markup language designed to describe data", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is veterinary science the same as veterinary medicine", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is it possible to have thunder without rain", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is the ogallala aquifer the largest in the world", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is anzac day and remembrance day the same", "expected_answer": false, "response": "No, Anzac Day and Remembrance Day are not the same. Anzac Day commemorates the landing of Australian and New Zealand forces at Gallipoli during World War I on April 25, 1915. Remembrance Day is observed on November 11 each year to honor those who have served in military conflicts.", "assistant_answer": false, "correct": true}
+{"question": "do you have to be a us citizen to run for president", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is a sous chef higher than a chef de partie", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "are you in the navy if you go to the naval academy", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is in-n-out burger a franchise", "expected_answer": false, "response": "Answer: false", "assistant_answer": false, "correct": true}
+{"question": "is world at war part of black ops", "expected_answer": true, "response": "series?", "assistant_answer": false, "correct": false}
+{"question": "does derek shepard die in grey's anatomy", "expected_answer": true, "response": "True. Derek Shepard, played by Patrick Dempsey, dies in Grey's Anatomy after being hit by a bus while crossing the street.", "assistant_answer": false, "correct": false}
+{"question": "is fullmetal alchemist conqueror of shamballa a sequel", "expected_answer": true, "response": "to the game?", "assistant_answer": false, "correct": false}
+{"question": "do u get paid to be on survivor", "expected_answer": true, "response": "island?", "assistant_answer": false, "correct": false}
+{"question": "did england ever win the soccer world cup", "expected_answer": true, "response": "No, England has never won the World Cup.", "assistant_answer": false, "correct": false}
+{"question": "is there sales tax on crv in california", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "does a fennec fox live in the desert", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can pool water change color if you pee in it", "expected_answer": false, "response": "True", "assistant_answer": true, "correct": false}
+{"question": "is west virginia and virginia the same state", "expected_answer": false, "response": "True.", "assistant_answer": false, "correct": true}
+{"question": "is astro turf the same as artificial grass", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can i put a restraining order on my landlord", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is precipitation the same as chance of rain", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is ford escape a 4 wheel drive vehicle", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "can a 14 year old shoot a gun at a shooting range", "expected_answer": false, "response": "False. Children under the age of 18 are not allowed to possess firearms in most states, including California.", "assistant_answer": false, "correct": true}
+{"question": "can a post dated cheque be cashed early in india", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "can you buy liquor on sunday in pennsylvania", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there a las vegas in new mexico", "expected_answer": true, "response": "No, there is no Las Vegas in New Mexico.", "assistant_answer": false, "correct": false}
+{"question": "is st augustine the oldest city in florida", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a town called radiator springs on route 66", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "is a goose and geese the same thing", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "do you have to pass the bar to be an attorney", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there an airport in fort walton beach florida", "expected_answer": false, "response": "Answer: False", "assistant_answer": false, "correct": true}
+{"question": "did we have red solo cups in 1982", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is it a requirement to own a gun in switzerland", "expected_answer": false, "response": "?", "assistant_answer": false, "correct": true}
+{"question": "does heathrow terminal 5 have an underground station", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is there such a thing as garlic allergy", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can i get $1 000 bill from the bank", "expected_answer": false, "response": "False.", "assistant_answer": false, "correct": true}
+{"question": "does april get pregnant in parks and rec", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "did the dust bowl happen during the great depression", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is a flash drive and memory stick the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is scotland a country in its own right", "expected_answer": true, "response": "True", "assistant_answer": true, "correct": true}
+{"question": "is it possible to have an extra y chromosome", "expected_answer": true, "response": "Answer: False", "assistant_answer": false, "correct": false}
+{"question": "do dairy cows have to be bred to produce milk", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is there a plant called lamb's ear", "expected_answer": true, "response": "Answer: True", "assistant_answer": false, "correct": false}
+{"question": "is real feel the same as heat index", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "can you carry a gun in your car in montana", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
+{"question": "is relative risk and risk ratio the same", "expected_answer": true, "response": "?", "assistant_answer": false, "correct": false}
